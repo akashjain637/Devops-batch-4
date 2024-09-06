@@ -10,3 +10,5 @@ git log --oneline --preety
 git config --global user.name "username"
 git config --global user.email "useremailid"
 git checkout -b branchname
+git remote -v
+git pull origin main
